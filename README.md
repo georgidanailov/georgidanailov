@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm a Service Delivery Specialist working at RewardGateway, aspiring to advance my career and become a Software Engineer. I'm currently dived in to Java object-oriented programming, and technologies such as MySQL and Spring. As well as other technologies I find interesting.
+Hi, I'm currently aspiring to advance my career and become a Software Engineer. I'm currently dived in to Java object-oriented programming, and technologies such as MySQL and Spring. As well as other technologies I find interesting.
 
 
 ## 🌐 Socials:
