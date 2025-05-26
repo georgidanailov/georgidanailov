@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend Engineering Intern at RewardGateway|Edenred
+Software Engineer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgi-danailov-65392b1ba/) 
